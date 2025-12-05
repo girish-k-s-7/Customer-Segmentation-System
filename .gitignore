@@ -1,0 +1,69 @@
+ 
+# Python & Virtual Environment
+ 
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+ 
+# IDE & Editor Files
+ 
+.vscode/
+.idea/
+*.swp
+
+ 
+# Jupyter Notebook
+ 
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+ 
+# Data Files
+ 
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Allow sample files (if needed)
+!data/sample_*.csv
+
+
+# Artifacts & Model Outputs
+ 
+artifacts/
+*/artifacts/
+*.pkl
+*.joblib
+*.h5
+*.sav
+
+ 
+# Logs
+ 
+logs/
+*.log
+ 
+# Environment Variables
+ 
+.env
+*.env
+
+ 
+# OS Files
+ 
+.DS_Store
+Thumbs.db
+ 
+# Build / Packaging
+ 
+build/
+dist/
+*.egg-info/
