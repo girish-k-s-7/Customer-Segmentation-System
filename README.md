@@ -118,14 +118,21 @@ The UI allows users to:
 
 ### 🏆 Key Highlights
 
-✅ Full end-to-end ML pipeline
-✅ Real-world customer segmentation use case
-✅ Feature engineering for deeper insights
-✅ PCA visualization for dimensionality reduction
-✅ Production-grade structure
-✅ Logging + exception handling
-✅ Clean modular architecture
-✅ Simple, user-friendly Streamlit deployment 
+* Full end-to-end ML pipeline
+
+*  Real-world customer segmentation use case
+
+* Feature engineering for deeper insights
+
+* PCA visualization for dimensionality reduction
+
+* Production-grade structure
+
+* Logging + exception handling
+
+* Clean modular architecture
+
+* Simple, user-friendly Streamlit deployment 
 
 ---
 ### 🚀 Future Improvements
