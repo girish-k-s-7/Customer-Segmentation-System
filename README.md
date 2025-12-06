@@ -1,4 +1,4 @@
-# 🚀 Customer Segmentation System (End-to-End Unsupervised ML + Deployment)
+# 🚀 Customer Segmentation System 
 
 This project implements a production-ready **Customer Segmentation System** using Unsupervised Machine Learning, following a complete ML pipeline with data ingestion, preprocessing, model training, evaluation, and deployment using Streamlit.
 
