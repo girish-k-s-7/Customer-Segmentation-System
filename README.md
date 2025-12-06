@@ -152,5 +152,6 @@ Cluster drift monitoring
 
 ### 👨‍💻 Author
 
-Girish K S
+**Girish K S**
+
 Data Scientist
